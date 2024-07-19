@@ -44,7 +44,6 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 - Only 30 user data is available. The central limit theorem general rule of n≥30 applies and we can use the t test for statstic reference. However, a larger sample size is preferred for the analysis.
 - Upon further investigation to check for unique user Id, the set has 33 user data from daily activity, 24 from sleep and only 8 from weight. There are 3 extra users and some users did not record their data for tracking daily activity and sleep. 
 - For the 8 user data for weight, 5 users manually entered their weight and 3 recorded via a connected wifi device (eg: wifi scale).
-- Most data is recorded from Tuesday to Thursday, which may not be comprehensive enough to form an accurate analysis.
 
 ## 3. Process
 
@@ -57,5 +56,5 @@ Steps took to clean the data.
 1. Combined dailyAcitivy.csv and weightloginto.csv files to gather all data into one place.
 2. Checked and removed dupicates, NULL/missing values. Also cleaned up values to only have 1 decimal. 
 3. Removed columns LoggedActivites, SedentaryActiveDistance, and TrackerDistance. These were removed due to either being not needed, duplicate values or all values were 0.
-   - Removed undeeded columns and values as well on the weightloginfo dataset.
+   - Removed unneeded columns and values as well on the weightloginfo dataset.
 
