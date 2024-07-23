@@ -48,8 +48,8 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 ## 3. Process
 
 Observe and familarize with the data set. 
-![image](https://i.ibb.co/YX7rbx6/image10.png_)
-Note: This is only a screenshot of the starting data set of the dailyAcitivy.csv file. 
+![bgfvgfd](https://github.com/user-attachments/assets/6fd986ff-7b2a-4609-9640-3eabdb14694e)
+Note: This is only a screenshot of the fully cleaned daily activity data set. 
 
 Steps took to clean the data in sheets. 
 
