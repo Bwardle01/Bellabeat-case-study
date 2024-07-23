@@ -51,12 +51,30 @@ Observe and familarize with the data set.
 ![image](https://i.ibb.co/YX7rbx6/image10.png_)
 Note: This is only a screenshot of the starting data set of the dailyAcitivy.csv file. 
 
-Steps took to clean the data. 
+Steps took to clean the data in sheets. 
 
 1. Combined dailyAcitivy.csv and weightloginto.csv files to gather all data into one place.
 2. Checked and removed dupicates, NULL/missing values. Also cleaned up values to only have 1 decimal. 
 3. Removed columns LoggedActivites, SedentaryActiveDistance, and TrackerDistance. These were removed due to either being not needed, duplicate values or all values were 0.
    - Removed unneeded columns and values as well on the weightloginfo dataset.
-4. After cleaning the data from the data set. I made a pivot table with muliple types of data points such as averages and sums of the data.
-   ![Capture](https://github.com/user-attachments/assets/e80e67b8-25f9-4d0b-a4e6-5bd4a71ce423)
+
+Data cleaning has been completed. 
+
+## 4. Analyze 
+
+To analyze the data in sheets, I went ahead and created a pivot table to gather SUMS and averages of the data. 
+![s](https://github.com/user-attachments/assets/f69d3a99-e6e1-4c71-8ea0-9c018c00b347)
+
+
+With doing that, I found that 81% of the time the device was used was during a sedentary moment. 
+- Only 1.6% of the time was very active.
+- 1% of the time was farily active.
+- 15% of the time was light activity
+- The average steps took a day was at 7,434.
+- And the average calories burned was only 1600 
+
+![re](https://github.com/user-attachments/assets/664a1fc7-5efb-4138-b5b2-f68a3bcb1b7d)
+
+With this data saying that the average time the device was worn was during casual sedentary time. 
+
 
