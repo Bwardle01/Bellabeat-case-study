@@ -57,4 +57,6 @@ Steps took to clean the data.
 2. Checked and removed dupicates, NULL/missing values. Also cleaned up values to only have 1 decimal. 
 3. Removed columns LoggedActivites, SedentaryActiveDistance, and TrackerDistance. These were removed due to either being not needed, duplicate values or all values were 0.
    - Removed unneeded columns and values as well on the weightloginfo dataset.
+4. After cleaning the data from the data set. I made a pivot table with muliple types of data points such as averages and sums of the data.
+   ![Capture](https://github.com/user-attachments/assets/e80e67b8-25f9-4d0b-a4e6-5bd4a71ce423)
 
