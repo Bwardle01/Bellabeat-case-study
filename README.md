@@ -105,4 +105,15 @@ In this scatter plot, you can see that the average time spent in bed was between
 This resulting more time asleep and more recovery. 
 
 
+## 6. Act
 
+What trends were identified? 
+1. The first trend that was found was that the fitbit tracker was used mainly for more casual wear and not for tracking health habits.
+2. Per the data that was provided, when the users have a higher step count, they tend to burn more calories.
+3. Users also tend to wear their device when they sleep. Thus providing data on how much the customer is recovering from their day.
+
+How could Bellabeat apply your insights?
+- Obtain more data for an accurate analysis, encouraging users to use a wifi-connected scale instead of manual weight entries.
+- The business could push a marketing strategy for the LEAF or TIME device. Due to the customers using their device in more of a casual sense. They can also push new designs to help with the strategy.
+- With the activity mostly being sedendary, the business could add a feature to the LEAF or TIME device, notifying the customer to stand up or to get a little more active when they havent been active for a certain amount of time.
+- Educational healthy style campaign can pair with a point-reward incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
