@@ -75,6 +75,7 @@ With doing that, I found that 81% of the time the device was used was during a s
 
 ![re](https://github.com/user-attachments/assets/664a1fc7-5efb-4138-b5b2-f68a3bcb1b7d)
 ![Rplot](https://github.com/user-attachments/assets/137289c8-692a-4fb0-8ca7-741281d8de53)
+
 Note: The percentages on this chart are rounded up. 
 
 With this data saying that the average time the device was worn was during casual sedentary time. 
