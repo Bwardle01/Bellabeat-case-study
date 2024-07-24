@@ -80,4 +80,13 @@ Note: The percentages on this chart are rounded up.
 
 With this data saying that the average time the device was worn was during casual sedentary time. 
 
+Next I wanted to see how many calories are being burnt per steps taken. 
+
+![Rplot01](https://github.com/user-attachments/assets/dde375cc-881a-4596-96c5-e9a915499b5d)
+
+As you can see in this chart, typically the more steps that were logged the more calories that were burned.
+  - But there seems to be some discrepancy with the data that was provided as you can see at the bottom of the graph.
+  - 1 of 2 things could cause this, 1. The tracker wasnt logging the calories burnt when the customer was wearing it 2. The tracker was picking up random motions as steps when it should'nt have. This could lead to more steps being tracked than actual. 
+
+
 
