@@ -1,9 +1,8 @@
 # CASE STUDY: Bellabeat Fitness Data Analysis 
 ##### Author: Bronson wardle 
 
-##### Date:
+##### Date: 07/23/2024
 
-##### Sheets docs go here. 
 
 ##### 
 
